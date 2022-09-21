@@ -1,15 +1,13 @@
-
-\|
-`Contributing <CONTRIBUTING.md>`__  \|
-`Help & Support <https://typo3.org/help>`__ \|
-`Settings <Documentation/Settings.cfg>`__ \|
-
 ==================================================
 Developing TYPO3 Extensions with Extbase and Fluid
 ==================================================
 
-The extension used as an example in this book sjroffers
-can be found here: https://github.com/martin-helmich/typo3-sjroffers
+This book has been here since TYPO3 v6.2. By now (2022) it is severely outdated.
+We are therefore in the process of reviewing, moving and removing its content.
 
-:Repository:  https://github.com/TYPO3-Documentation/TYPO3CMS-Book-ExtbaseFluid
-:Read online: https://docs.typo3.org/typo3cms/ExtbaseFluidBook/
+The Extbase reference can now be found in `TYPO3 Explained, Extbase
+reference <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ExtensionArchitecture/Extbase/Reference/Index.html>`__.
+
+New tutorials can be found at
+`TYPO3 Explained, Extension development tutorials <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ExtensionArchitecture/Tutorials/Index.html>`__.
+
